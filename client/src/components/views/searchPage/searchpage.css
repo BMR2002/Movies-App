@@ -1,0 +1,26 @@
+.inputsearch{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border-color:slategrey;
+    color:blue;
+    width: 300px;
+}
+
+.loading{
+    color:red;
+    margin-left: 200px;
+    margin-top:20px;
+}
+
+.nolistfound{
+    color:rgba(8, 8, 169, 0.815);
+    margin-left:270px;
+    margin-top:40px;
+}
+
+.movieslist{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+}
